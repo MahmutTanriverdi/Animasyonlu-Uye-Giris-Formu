@@ -1,2 +1,2 @@
 # Animasyonlu-Uye-Giris-Formu
-Animasyonlu Uye Giris Formu Projesi
+HTML5,CSS ve Javascript kullanılarak yapılmış animasyonlu login formu
